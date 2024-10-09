@@ -1,0 +1,27 @@
+
+.col ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;           /* Removes default padding */
+    margin:0;          /* Removes default margin */
+}
+.col ul li{
+    margin-bottom: 0.7rem;
+}
+.col ul li a {
+    text-decoration: none; /* Removes underline from links */
+    color: inherit;       /* Makes the link color inherit from the parent element */
+}
+
+.line ul{
+    display: flex;
+    list-style-type: none; 
+    align-items: center;
+    justify-content: center;
+}
+.line ul li{
+    margin: 1rem;
+}
+.line ul li a{
+    text-decoration: none;
+    color: inherit;
+}

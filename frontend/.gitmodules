@@ -1,0 +1,11 @@
+[submodule "backend"]
+    path = backend
+    url = https://github.com/Tanusingh1654/backend.git
+
+ [submodule "dashboard"]
+    path = dashboard
+    url = https://github.com/Tanusingh1654/dashboard.git
+
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/Tanusingh1654/frontend.git

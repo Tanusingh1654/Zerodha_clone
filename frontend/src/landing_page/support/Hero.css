@@ -1,0 +1,27 @@
+#support-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+#support-hero{
+    background-color:rgb(56,126,209);
+    margin: 5rem 0;
+    color:white;
+}
+
+#support-hero a{
+    color:white;
+}
+
+.row .col-6{
+    padding: 5rem !important;
+    /* border: 2px solid red; */
+}
+#support-hero input{
+    padding: .8rem;
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 0.5rem;
+    border: 2px solid white;
+}
